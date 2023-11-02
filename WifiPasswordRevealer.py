@@ -17,6 +17,7 @@ for i in a:
         print("{:<20} | {:<}".format(i, ""))
         print('-'*40)
 print()
+print()
 print('_/﹋\_')
 print('(҂`_´)')
 print('<,︻╦╤─ ҉ - -')
