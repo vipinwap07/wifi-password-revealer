@@ -1,7 +1,8 @@
-# production
+# folders
 _internal
 Wifi-Password-Revealer
 output
+config/
 
 # misc
 .env
