@@ -1,10 +1,16 @@
-# Wi-Fi Password Revealer
+<h1 align="center">Wi-Fi Password Revealer</h1>
+<div align="center">Welcome to the Wi-Fi Password Revealer project! This Python application helps you retrieve the saved Wi-Fi passwords on your PC. With this tool, you can easily recover and view Wi-Fi passwords from your Windows machine.</div>
 
-Welcome to the Wi-Fi Password Revealer project! This Python application helps you retrieve the saved Wi-Fi passwords on your PC. With this tool, you can easily recover and view Wi-Fi passwords from your Windows machine.
+<div align="center">
+</br>
+
+[![Download Now](https://img.shields.io/badge/-Download_Now!-%235CDB5C)](https://github.com/vipinwap07/wifi-password-revealer/releases/download/v2/Wifi-Password-Revealer.exe) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/vipinwap07/wifi-password-revealer?label=Latest%20Release&style=flat-square)](<(https://github.com/vipinwap07/wifi-password-revealer/releases)>) ![GitHub Release Date](https://img.shields.io/github/release-date/vipinwap07/wifi-password-revealer?label=Released&style=flat-square) ![GitHub all releases](https://img.shields.io/github/downloads/vipinwap07/wifi-password-revealer/total?label=Downloads&style=social)
+
+</div>
 
 ## Download
 
-You can download the latest version of the Wi-Fi Password Revealer from the [Download Link](https://github.com/vipinwap07/wifi-password-revealer/releases/download/v1/WifiPasswordRevealer.exe).
+You can download the latest version of the Wi-Fi Password Revealer from the [Download Link](https://github.com/vipinwap07/wifi-password-revealer/releases/download/v2/Wifi-Password-Revealer.exe).
 
 ## Usage
 
