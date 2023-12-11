@@ -1,0 +1,11 @@
+# production
+_internal
+Wifi-Password-Revealer
+output
+
+# misc
+.env
+
+# files
+config.json
+data.txt
