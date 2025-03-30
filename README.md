@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dzdcdfwww/image/upload/v1743319438/wifi_fdqnwy.png" width="80px">
+</p>
 <h1 align="center">Wi-Fi Password Revealer</h1>
 <div align="center">Welcome to the Wi-Fi Password Revealer project! This Python application helps you retrieve the saved Wi-Fi passwords on your PC. With this tool, you can easily recover and view Wi-Fi passwords from your Windows machine.</div>
 

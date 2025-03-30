@@ -3,6 +3,7 @@ _internal
 Wifi-Password-Revealer
 output
 config/
+src/
 
 # misc
 .env
